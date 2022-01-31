@@ -1,5 +1,5 @@
 {
-  "name": "create-react-native-library",
+  "name": "@craftzdog/create-react-native-library",
   "version": "0.20.1",
   "description": "CLI to scaffold React Native libraries",
   "keywords": [
@@ -16,13 +16,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/callstack/react-native-builder-bob.git",
+    "url": "https://github.com/craftzdog/react-native-builder-bob.git",
     "directory": "packages/create-react-native-library"
   },
   "bugs": {
     "url": "https://github.com/callstack/react-native-builder-bob/issues"
   },
-  "homepage": "https://github.com/callstack/react-native-builder-bob/blob/main/README.md",
+  "homepage": "https://github.com/craftzdog/react-native-builder-bob/tree/main/packages/create-react-native-library",
   "main": "lib/index.js",
   "bin": {
     "create-react-native-library": "bin/create-react-native-library"
